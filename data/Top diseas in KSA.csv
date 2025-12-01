@@ -1,0 +1,135 @@
+DIM_COUNTRY_CODE,DIM_YEAR_CODE,DIM_GHECAUSE_TITLE,DIM_SEX_CODE,VAL_DTHS_RATE100K_NUMERIC
+SAU,2021,HIV/AIDS,BTSX,0.27
+SAU,2021,Acute hepatitis B,BTSX,0.15
+SAU,2021,Onchocerciasis,BTSX,0
+SAU,2021,Yellow fever,BTSX,0
+SAU,2021,Protein-energy malnutrition,BTSX,0.18
+SAU,2021,Mouth and oropharynx cancers,BTSX,1.25
+SAU,2021,Stomach cancer,BTSX,1.23
+SAU,2021,Cervix uteri cancer,BTSX,0.37
+SAU,2021,Diabetes mellitus,BTSX,13.72
+SAU,2021,Eating disorders,BTSX,0
+SAU,2021,Multiple sclerosis,BTSX,0.03
+SAU,2021,Other vision loss,BTSX,0
+SAU,2021,Inflammatory bowel disease,BTSX,0.03
+SAU,2021,Exposure to mechanical forces,BTSX,1.79
+SAU,2021,Self-harm,BTSX,0.95
+SAU,2021,Trichomoniasis,BTSX,0
+SAU,2021,Measles,BTSX,0.03
+SAU,2021,Meningitis,BTSX,0.27
+SAU,2021,Acute hepatitis E,BTSX,0
+SAU,2021,Chagas disease,BTSX,0
+SAU,2021,Leishmaniasis,BTSX,0
+SAU,2021,Echinococcosis,BTSX,0.01
+SAU,2021,Trichuriasis,BTSX,0
+SAU,2021,Maternal conditions,BTSX,0.21
+SAU,2021,Birth asphyxia and birth trauma,BTSX,1.21
+SAU,2021,Melanoma and other skin cancers,BTSX,0.21
+SAU,2021,Testicular cancer,BTSX,0.08
+SAU,2021,Kidney cancer,BTSX,0.77
+SAU,2021,Brain and nervous system cancers,BTSX,1.27
+SAU,2021,Sickle cell disorders and trait,BTSX,0.39
+SAU,2021,Drug use disorders,BTSX,0.08
+SAU,2021,Parkinson disease,BTSX,1.59
+SAU,2021,Uncorrected refractive errors,BTSX,0
+SAU,2021,Stroke,BTSX,9.14
+SAU,2021,Cirrhosis of the liver,BTSX,9
+SAU,2021,Gynecological diseases,BTSX,0.03
+SAU,2021,Syphilis,BTSX,0.32
+SAU,2021,Genital herpes,BTSX,0
+SAU,2021,Diphtheria,BTSX,0
+SAU,2021,African trypanosomiasis,BTSX,0
+SAU,2021,Rabies,BTSX,0
+SAU,2021,Otitis media,BTSX,0
+SAU,2021,Preterm birth complications,BTSX,3.95
+SAU,2021,"Trachea, bronchus, lung cancers",BTSX,2.22
+SAU,2021,Leukaemia,BTSX,2.56
+SAU,2021,Alcohol use disorders,BTSX,0
+SAU,2021,Alzheimer disease and other dementias,BTSX,4.57
+SAU,2021,Cataracts,BTSX,0
+SAU,2021,Rheumatic heart disease,BTSX,0.16
+SAU,2021,Ischaemic heart disease,BTSX,47.21
+SAU,2021,Urolithiasis,BTSX,0
+SAU,2021,Back and neck pain,BTSX,0
+SAU,2021,Oral conditions,BTSX,0
+SAU,2021,"Fire, heat and hot substances",BTSX,1.72
+SAU,2021,Tuberculosis,BTSX,2.06
+SAU,2021,Dengue,BTSX,0.01
+SAU,2021,Lower respiratory infections,BTSX,7.37
+SAU,2021,Vitamin A deficiency,BTSX,0
+SAU,2021,Liver cancer,BTSX,2.49
+SAU,2021,Ovary cancer,BTSX,0.6
+SAU,2021,Bladder cancer,BTSX,0.79
+SAU,2021,Larynx cancer,BTSX,0.23
+SAU,2021,Thalassaemias,BTSX,0.03
+SAU,2021,Bipolar disorder,BTSX,0
+SAU,2021,Childhood behavioural disorders,BTSX,0
+SAU,2021,Non-migraine headache,BTSX,0
+SAU,2021,Chronic obstructive pulmonary disease,BTSX,1.05
+SAU,2021,Gastritis and duodenitis,BTSX,0.01
+SAU,2021,Kidney diseases,BTSX,21.1
+SAU,2021,Osteoarthritis,BTSX,0
+SAU,2021,Sudden infant death syndrome,BTSX,0.14
+SAU,2021,Poisonings,BTSX,0.3
+SAU,2021,Collective violence and legal intervention,BTSX,0.34
+SAU,2021,Encephalitis,BTSX,0.37
+SAU,2021,Lymphatic filariasis,BTSX,0
+SAU,2021,Hookworm disease,BTSX,0
+SAU,2021,COVID-19,BTSX,26.86
+SAU,2021,Oesophagus cancer,BTSX,0.53
+SAU,2021,Corpus uteri cancer,BTSX,0.55
+SAU,2021,Gallbladder and biliary tract cancer,BTSX,0.3
+SAU,2021,Mesothelioma,BTSX,0.06
+SAU,2021,Autism and Asperger syndrome,BTSX,0
+SAU,2021,Migraine,BTSX,0
+SAU,2021,Other hearing loss,BTSX,0
+SAU,2021,Rheumatoid arthritis,BTSX,0.02
+SAU,2021,Road injury,BTSX,18.45
+SAU,2021,Interpersonal violence,BTSX,2.35
+SAU,2021,Gonorrhoea,BTSX,0
+SAU,2021,Tetanus,BTSX,0.01
+SAU,2021,Acute hepatitis A,BTSX,0.03
+SAU,2021,Schistosomiasis,BTSX,0.04
+SAU,2021,Cysticercosis,BTSX,0
+SAU,2021,Ascariasis,BTSX,0
+SAU,2021,Neonatal sepsis and infections,BTSX,0.2
+SAU,2021,Breast cancer,BTSX,2.39
+SAU,2021,Anxiety disorders,BTSX,0
+SAU,2021,Epilepsy,BTSX,0.76
+SAU,2021,Macular degeneration,BTSX,0
+SAU,2021,"Cardiomyopathy, myocarditis, endocarditis",BTSX,1.25
+SAU,2021,Peptic ulcer disease,BTSX,0.42
+SAU,2021,Appendicitis,BTSX,0.03
+SAU,2021,Gallbladder and biliary diseases,BTSX,0.66
+SAU,2021,Infertility,BTSX,0
+SAU,2021,Skin diseases,BTSX,1.17
+SAU,2021,Congenital anomalies,BTSX,6.24
+SAU,2021,Natural disasters,BTSX,0
+SAU,2021,Chlamydia,BTSX,0
+SAU,2021,Whooping cough,BTSX,0.06
+SAU,2021,Malaria,BTSX,0
+SAU,2021,Trachoma,BTSX,0
+SAU,2021,Food-bourne trematodes,BTSX,0
+SAU,2021,Leprosy,BTSX,0
+SAU,2021,Upper respiratory infections,BTSX,0
+SAU,2021,Iron-deficiency anaemia,BTSX,0
+SAU,2021,Pancreas cancer,BTSX,1.22
+SAU,2021,Thyroid cancer,BTSX,0.57
+SAU,2021,"Lymphomas, multiple myeloma",BTSX,2.88
+SAU,2021,Schizophrenia,BTSX,0
+SAU,2021,Glaucoma,BTSX,0
+SAU,2021,Hypertensive heart disease,BTSX,20.7
+SAU,2021,Paralytic ileus and intestinal obstruction,BTSX,0.57
+SAU,2021,Drowning,BTSX,1.5
+SAU,2021,Diarrhoeal diseases,BTSX,0.63
+SAU,2021,Acute hepatitis C,BTSX,0.02
+SAU,2021,Iodine deficiency,BTSX,0
+SAU,2021,Colon and rectum cancers,BTSX,4.32
+SAU,2021,Prostate cancer,BTSX,0.47
+SAU,2021,Depressive disorders,BTSX,0
+SAU,2021,Idiopathic intellectual disability,BTSX,0
+SAU,2021,Asthma,BTSX,0.21
+SAU,2021,Pancreatitis,BTSX,0.37
+SAU,2021,Benign prostatic hyperplasia,BTSX,0
+SAU,2021,Gout,BTSX,0
+SAU,2021,Falls,BTSX,1.81
